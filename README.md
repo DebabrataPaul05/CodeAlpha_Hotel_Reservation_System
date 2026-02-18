@@ -1,7 +1,7 @@
 # CodeAlpha_Hotel_Reservation_System
-Hotel Viewbelle – Java Console Booking System
+Hotel Reservation System – Java Console Booking System
 
-Hotel Viewbelle is a Java-based console application designed to simulate a real-world hotel booking and cancellation system. The project demonstrates strong understanding of object-oriented programming, file handling, date and time APIs, and structured user interaction through the command line. It manages room reservations, billing, payment processing, and booking records using persistent file storage.
+Hotel Reservation System (for an hotel named Hotel Viewbelle) is a Java-based console application designed to simulate a real-world hotel booking and cancellation system. The project demonstrates strong understanding of object-oriented programming, file handling, date and time APIs, and structured user interaction through the command line. It manages room reservations, billing, payment processing, and booking records using persistent file storage.
 
 The application begins with a menu-driven interface that continuously runs inside a loop until the user chooses to exit. The user can create a new booking, cancel an existing booking, or terminate the program. This structure ensures smooth navigation and controlled execution flow.
 
